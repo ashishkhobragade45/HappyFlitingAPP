@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "233084484935",
+    "firebase_url": "https://happyflitingapp.firebaseio.com",
+    "project_id": "happyflitingapp",
+    "storage_bucket": "happyflitingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233084484935:android:cd79416154fa7f69",
+        "android_client_info": {
+          "package_name": "asia.getl.happyflitingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233084484935-kjptj67b7uqajqg1cd6j1muuv0bcgpl7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "asia.getl.happyflitingapp",
+            "certificate_hash": "eb4975a312d96086c9fab83ab435c01e6c1d0596"
+          }
+        },
+        {
+          "client_id": "233084484935-4ichnrbbhoss1smlu4piu1p1qpoofbp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG3rZB0tRVB3u5mky_0g0biNLesDuuSgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233084484935-4ichnrbbhoss1smlu4piu1p1qpoofbp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
